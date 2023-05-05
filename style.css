@@ -1,4 +1,18 @@
 header{
-    background-color: #383D58;
-    color: white;
-}
+        background-color: white;
+    }
+
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 70px ;
+        font-size: 24px;
+        padding: 50px 0;
+        display: inline-block;
+    
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+
