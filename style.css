@@ -8,11 +8,27 @@ header{
         font-size: 24px;
         padding: 50px 0;
         display: inline-block;
-    
+       
     }
     *{
         margin: 0;
         padding: 0;
     }
 
+    .escola-imagem{ 
+     
+        width: 15%
 
+    }
+    .escola{
+        background-image: linear-gradient(#d877d3,#F5B7F2);
+        color: #6D76CA;
+    }
+    .escola-titulo{ 
+        padding: 50px 0px 30px 0px;
+
+    }
+.body{
+background-color: #FFC6FD;
+color: #6D76CA;
+}
