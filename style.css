@@ -32,3 +32,10 @@ header{
 background-color: #FFC6FD;
 color: #6D76CA;
 }
+.estudante-imagem{
+width: 200px;
+
+}
+.estudante-div{
+    text-align: center;
+}
