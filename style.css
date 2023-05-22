@@ -26,8 +26,8 @@ header{
     }
     .escola-titulo{ 
         padding: 50px 0px 30px 0px;
-
     }
+
 .body{
 background-color: #FFC6FD;
 color: #6D76CA;
@@ -37,5 +37,18 @@ width: 200px;
 
 }
 .estudante-div{
+    background-color: #F5B7F2;
+text-align: center;
+}
+
+.estudante-div{
     text-align: center;
+}
+.estudante-titulo{
+padding: 20px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
